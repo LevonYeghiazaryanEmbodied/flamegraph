@@ -1,0 +1,23 @@
+{
+  "dataStudio": {
+    "name": "Flamegraph",
+    "logoUrl": "https://path/to/logo.png",
+    "company": "Your Company Name",
+    "companyUrl": "https://yourcompany.com",
+    "description": "A flamegraph visualization for Looker Studio.",
+    "scripts": {
+      "main": "https://levonyeghiazaryanembodied.github.io/flamegraph/flamegraph.js"
+    },
+    "style": {
+      "cssFile": "https://levonyeghiazaryanembodied.github.io/flamegraph/flamegraph.css"
+    },
+    "components": [
+      {
+        "id": "flamegraph",
+        "name": "Flamegraph",
+        "description": "A flamegraph visualization",
+        "iconUrl": "https://path/to/icon.png"
+      }
+    ]
+  }
+}
